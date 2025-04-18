@@ -1,0 +1,1 @@
+Call the batch command (run.bat) to draw the distribution map of each element.
